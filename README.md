@@ -3,5 +3,5 @@
 
 # node-google-spreadsheet
 - https://github.com/theoephraim/node-google-spreadsheet
-- https://theoephraim.github.io/node-google-spreadsheet/#/guides/migration-guide
+- 가이드 https://theoephraim.github.io/node-google-spreadsheet/#/guides/migration-guide
 - 구글 스프레드시트 API를 사용해서 DB처럼 사용할 수 있다.
